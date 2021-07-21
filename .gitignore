@@ -36,3 +36,9 @@
 
 # Thirdparty
 thirdparty/
+
+# Build
+build/
+
+# IDE
+.vscode/
